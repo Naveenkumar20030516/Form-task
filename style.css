@@ -1,0 +1,9 @@
+.container {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+table {
+    width: 100%;
+    overflow-x: auto;
+  }
